@@ -6,17 +6,19 @@ Published Dashboard Link:-https://app.powerbi.com/groups/me/reports/fe726111-b19
 
 This project presents an end-to-end Business Intelligence solution for analyzing retail sales data using SQL, Python, and Power BI.
 
-The objective is to identify sales trends, customer behavior, product performance, and regional profitability while providing actionable business recommendations.
+The objective is to identify sales trends, customer behavior, product performance, and regional profitability enabling, data driven decision making and strategic planning.
 
 ---
 
 ## Business Problems
 
+This project answers key business questions such as:
+
 - Which products generate the highest sales and profit?
 - Which customer segments contribute the most revenue?
 - Which regions perform the best?
-- What are the monthly sales trends?
-- Which products require inventory attention?
+- What are the monthly and yearly sales trends?
+- Which products require inventory attention due to low sales?
 
 ---
 
